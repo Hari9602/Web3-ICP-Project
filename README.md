@@ -1,5 +1,5 @@
-# FeedBlok 🌐
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+# FeedBlok 🌐
 Welcome to **FeedBlok**, your new project on the Internet Computer (ICP) blockchain! 🚀 We're excited to have you join the ICP development community. By default, this README and some template files are included to help you get started. You can customize these files to fit your project needs and expedite your development cycle. 
 
 Check out your live demo here: [FeedBlok Mainnet](https://ycybn-xyaaa-aaaap-ahdha-cai.icp0.io/) 🌍
